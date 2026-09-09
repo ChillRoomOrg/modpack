@@ -13,6 +13,10 @@ file = "mods/Archeological-neoforge-1.21.1-1.2.2.jar"
 hash = "06e9a6b1d4cbdd2e9eddd4079e7ca0412ec63c0273ade7a425f43c5a4f9bbf48"
 
 [[files]]
+file = "mods/BadOptimizations-2.4.1-1.21.1.jar"
+hash = "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"
+
+[[files]]
 file = "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"
 hash = "60b548bef04a2f0e1da686ee9035c2e3d4ed0459a17d7a4836fc26af6de6b60e"
 
@@ -249,10 +253,6 @@ file = "mods/better-advanced-tooltips-2101.1.0-build.5.jar"
 hash = "0f76d46f2f18eb67e67c7974170d7b27deb66473396461c8dc50d6949de1449b"
 
 [[files]]
-file = "mods/better-clouds-1.13.7+1.21.1-neoforge.jar"
-hash = "2f7edfd0fc254bdfb2e2b38fd5604fb354dd1b46357f220266a057c3152116d6"
-
-[[files]]
 file = "mods/betterbiomeblend-1.5.2.jar"
 hash = "5f632bf837b9b3c28eeaa4182fef6b24634a492e793ca98e7ba1ec0ffbb11083"
 
@@ -473,10 +473,6 @@ file = "mods/libjf-3.17.7+forge.jar"
 hash = "1617ee79d44d04596d79522e339a6001f9f0478229594473d23900f1f8411da4"
 
 [[files]]
-file = "mods/lithosphere-1.8.2.jar"
-hash = "4da964238943a510e620e8cac6b08dd9430ca904dc72642d85135b466be87c20"
-
-[[files]]
 file = "mods/loot_journal-neoforge-1.21.1-6.2.1.jar"
 hash = "9f4651a900f0b98e2a82780df2565ee29298c9de64d5874f380dc1f4d1841ac5"
 
@@ -527,10 +523,6 @@ hash = "38c05981d1dc8428c7ab1130b9ec7f05bca1b70f909aba9c454c9611702a8dda"
 [[files]]
 file = "mods/particlerain-4.0.0-beta.11+1.21.1-neoforge.jar"
 hash = "2e009947634616dfd251532eda14ef1729bcde1ccb482de83d67dffa232d1be0"
-
-[[files]]
-file = "mods/particular-1.21.1-NeoForge-1.5.7.jar"
-hash = "42c5ba95472c233a455da440e08a74be69cba616493292c0830cf47a47a9498e"
 
 [[files]]
 file = "mods/pingtomapxaeros-1.1.1-neoforge-1.21.1.jar"
@@ -623,10 +615,6 @@ hash = "7c4d77eab65359950c33d7d32189359277651fff30f11c5c3d7b638ec5e86df4"
 [[files]]
 file = "mods/statuseffectbars-1.21.1-NeoForge-1.0.2.jar"
 hash = "a631cd09277147bd40aac0392d3b3abe686b07db58cdac0833b16111e0c05ddf"
-
-[[files]]
-file = "mods/still-life-0.1.1.jar"
-hash = "0838e42c151cd4118b2baadc9fe933cc5015c611d00a54846601eb1e8b66deab"
 
 [[files]]
 file = "mods/streetskubegui-neoforge-1.0.0.jar"
