@@ -13,10 +13,6 @@ file = "mods/Archeological-neoforge-1.21.1-1.2.2.jar"
 hash = "06e9a6b1d4cbdd2e9eddd4079e7ca0412ec63c0273ade7a425f43c5a4f9bbf48"
 
 [[files]]
-file = "mods/BadOptimizations-2.4.1-1.21.1.jar"
-hash = "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"
-
-[[files]]
 file = "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"
 hash = "60b548bef04a2f0e1da686ee9035c2e3d4ed0459a17d7a4836fc26af6de6b60e"
 
