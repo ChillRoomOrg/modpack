@@ -1,0 +1,13 @@
+name = "27"
+author = "ChillRoom"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "09b1c172bdab1ca648afb0805d67c518fc04b3857fe69aba52c98c9f8b139fe3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"

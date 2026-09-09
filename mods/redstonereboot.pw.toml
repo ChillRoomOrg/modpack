@@ -1,0 +1,13 @@
+name = "RedstoneReboot"
+filename = "RedstoneReboot-NeoForge-1.6.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/q1G1C28r/versions/VpjF7REY/RedstoneReboot-NeoForge-1.6.2.jar"
+hash-format = "sha512"
+hash = "1ffc28a1930b5c7b934e5fe7dd97343c71ba15dfe59e8b8ac1155a3bde0afefedb2e4d91ccd089d2bbce18534de2ca0fab8a72ab4df8cd7518a487e6201714fc"
+
+[update]
+[update.modrinth]
+mod-id = "q1G1C28r"
+version = "VpjF7REY"

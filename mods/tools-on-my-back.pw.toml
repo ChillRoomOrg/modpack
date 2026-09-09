@@ -1,0 +1,13 @@
+name = "Tools On My Back (TOMB)"
+filename = "tools-on-my-back-1.1.0+1.21.1+neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rQou28Z1/versions/MGeEp8Z4/tools-on-my-back-1.1.0%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "dd3c96375f63e60bdfb299b204475f047f147be329e0231fb89db394ba83e137429c98faa1dd51bb6a6be6c106b3954cf14f46b35a45844a4ec52fc0c6783477"
+
+[update]
+[update.modrinth]
+mod-id = "rQou28Z1"
+version = "MGeEp8Z4"
