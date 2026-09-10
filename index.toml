@@ -201,10 +201,6 @@ file = "mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar"
 hash = "78fd24ecaadee01746ecc4cf598284923e762e25964311e86a67aa30cd3c2b67"
 
 [[files]]
-file = "mods/TalkBalloons-neoforge-1.6.1+1.21.1.jar"
-hash = "eefff5857d8afdff6b558a7a4d9472e6b1c870a7102ac5a86cb52570bb943d17"
-
-[[files]]
 file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
 
@@ -223,10 +219,6 @@ hash = "bacd2385965bcfa4adcc0841656110b8e21ee024407a5ee706d30929f7c240cc"
 [[files]]
 file = "mods/accents-neoforge-1.21.1-2.0.2.jar"
 hash = "c7b203b17609235cce3401e8c293f31f87493f825a2ab2387309be0e9944664c"
-
-[[files]]
-file = "mods/acedium-0.4.2+mc1.21.1.jar"
-hash = "9aa667b694d50bbf575eaabba7113f8204fdb5b61b37c7759532e914e8716ad2"
 
 [[files]]
 file = "mods/alcocraftplus-1.21.1-2.1.2-neoforge.jar"
@@ -671,10 +663,6 @@ hash = "a631cd09277147bd40aac0392d3b3abe686b07db58cdac0833b16111e0c05ddf"
 [[files]]
 file = "mods/streetskubegui-neoforge-1.0.0.jar"
 hash = "1fbfba7bc5c4be0e82269d2c5a124e78affef7234095fe2448a11b553fddb0ca"
-
-[[files]]
-file = "mods/swinginglanterns-1.21.1-1.5.0.1.jar"
-hash = "3d295932ac5b9326948b0e6067017aafe2d825ef5d2cf4bb56c7fc3dc38ce565"
 
 [[files]]
 file = "mods/terrain_slabs-neoforge-3.1.2.jar"
