@@ -61,6 +61,10 @@ file = "mods/FastItemFrames-v21.1.6-1.21.1-NeoForge.jar"
 hash = "e831a12ca075450295aa26c8862d641498f8031af10674d60a791d2f27be17be"
 
 [[files]]
+file = "mods/GPUBooster-1.3.2-1.21.1-neo.jar"
+hash = "56f5eda7cc8c6121d45616e38454ca7a71faa66c5b28c1cb8e6c211f9cad989d"
+
+[[files]]
 file = "mods/Geophilic v3.6.mod.jar"
 hash = "5df284ed678c8f44d5f9b015736c18858d8b5706128bbe129fc35bc23208bd84"
 
@@ -87,6 +91,10 @@ hash = "a2615ac74256017d5d672ce72a62acc7b7d187dd3d0aaf0b5a61fd305f84f38d"
 [[files]]
 file = "mods/InventoryParticles-3.0.0+1.21.1+neoforge.jar"
 hash = "81099f3fb13687bc7e82066cdbfdc4bb8c395293255cd512ebbd8d1590d45000"
+
+[[files]]
+file = "mods/Ixeris-4.6.5+1.21.1-neoforge.jar"
+hash = "1b61562c86cb0e9cfbbaaddd2e4ad5b20f9ba4fcc20d2cc42aa75b4e1e3b92d7"
 
 [[files]]
 file = "mods/Jade-1.21.1-NeoForge-15.10.6.jar"
@@ -127,6 +135,10 @@ hash = "92ba07d9d9e55a65421f3c3f203c72fe5149cb024d5277267e81d812e11a7f38"
 [[files]]
 file = "mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar"
 hash = "571feb4d223ee2b5661ed3450ea5c68db18627badcef4d59095a329fc03a7685"
+
+[[files]]
+file = "mods/Palladium-1.1.8-1.21-1.21.1.jar"
+hash = "70083d3eaacec032a9ff066474e6df1e81d3e77125fa59f211252dcccec3997e"
 
 [[files]]
 file = "mods/ParticleEffects-1.5.0+1.21.1+neoforge.jar"
@@ -197,6 +209,10 @@ file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
 
 [[files]]
+file = "mods/Toadlib-1.3.2-1.21-1.21.1.jar"
+hash = "117fb312b170b5b38f1cd24ca51630737a9846412d3d14e69c2381b7c68b22dd"
+
+[[files]]
 file = "mods/VanillaBackport-neoforge-1.21.1-1.1.7.10.jar"
 hash = "ecd807ac358e243ede17819455788c7b7a0ce5e0af4aecee82c1c62c586d818d"
 
@@ -265,6 +281,10 @@ file = "mods/betterbiomeblend-1.5.2.jar"
 hash = "5f632bf837b9b3c28eeaa4182fef6b24634a492e793ca98e7ba1ec0ffbb11083"
 
 [[files]]
+file = "mods/bettersearch-neoforge-1.21.1-1.4.2.jar"
+hash = "812fa7d35e6f39b78fbd0902d7a66a11f7d5043294b5bb577e198a080a82d8de"
+
+[[files]]
 file = "mods/bf_blockpack-neoforge-1.21.1-1.1.2.jar"
 hash = "ea7f3c081141bfbc1353510bc5a2e068b36fa761019cde8948e4c9832b6dc33b"
 
@@ -295,6 +315,10 @@ hash = "02e10437ceeed34e14e0efe206204658e4b8aa8ee7df10f2a9e28ac20f1b0391"
 [[files]]
 file = "mods/chatanimation-neoforge-1.3.1+mc1.21.jar"
 hash = "fb5ae4bf5588af538f1e268c9f5b927c3c5efbefea3b4c86d74952c30c77804b"
+
+[[files]]
+file = "mods/cirrus-neoforge-1.21.1-1.3.0.jar"
+hash = "f2dd2fa3a5b0194c6dac723e44f76e7a0534e990a69640667d620ba3cb5c4235"
 
 [[files]]
 file = "mods/cloth-config-15.0.140-neoforge.jar"
@@ -445,12 +469,20 @@ file = "mods/geckolib-neoforge-1.21.1-4.9.2.jar"
 hash = "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba"
 
 [[files]]
+file = "mods/gnetum-3.3.6.jar"
+hash = "19471108f3c2d799831ee52bc9d04d99cf745f0c1699b992ee981508befb583b"
+
+[[files]]
 file = "mods/held_item_info-1.0.0-neoforge-1.21.1.jar"
 hash = "38b708043245431de692ff431de84f2b82ada607318cee17ffee407b41abeda8"
 
 [[files]]
 file = "mods/highlight-neoforge-1.21-3.0.0.jar"
 hash = "b1f4fab5bcfa82f74c5f7a3e61d6ef5fdc9415e3435f84f59fda5e2881eafcda"
+
+[[files]]
+file = "mods/immersive_pillagers-neoforge-0.1.4+1.21.1.jar"
+hash = "ada1fab747b599589b27a03e9c1fd75f527f8e4faa1c0bb5f179ca8dd6cbeec3"
 
 [[files]]
 file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
@@ -469,6 +501,10 @@ file = "mods/kotlinforforge-5.12.0-all.jar"
 hash = "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139"
 
 [[files]]
+file = "mods/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar"
+hash = "05ebe849611daafe533fc57ed9b5156edfa9157ced04d38a7860b1e2075984b9"
+
+[[files]]
 file = "mods/kubejs-neoforge-2101.7.2-build.374.jar"
 hash = "2351c858ccaf4eea1f4125a55cd9583a729dee65cfd04c5fbaa702a2ac2fb084"
 
@@ -479,6 +515,10 @@ hash = "453df10dca8534ec9bc4d6707a25f21f738720f2360ba4ae3a9c52a570142c9e"
 [[files]]
 file = "mods/libjf-3.17.7+forge.jar"
 hash = "1617ee79d44d04596d79522e339a6001f9f0478229594473d23900f1f8411da4"
+
+[[files]]
+file = "mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
+hash = "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
 
 [[files]]
 file = "mods/loot_journal-neoforge-1.21.1-6.2.1.jar"
@@ -581,6 +621,10 @@ file = "mods/shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar"
 hash = "36c6ab0fd4b6e684e2d554c67d783067dced9906cfd2b75cae56dd9ede53407a"
 
 [[files]]
+file = "mods/smart_particles-21.8.10.jar"
+hash = "a19d81c5a06180dd8539260c90bf42a5faa2a867ae215dc79b18c8c0b4833672"
+
+[[files]]
 file = "mods/smarterfarmers-1.21-2.2.4-neoforge.jar"
 hash = "96cd9c5cb6e358798de09c5de13a1201a01da680cad8ec5a0d5a309106293d13"
 
@@ -645,6 +689,10 @@ file = "mods/tools-on-my-back-1.1.0+1.21.1+neoforge.jar"
 hash = "4d02949632c5337765882bc4e3b01c513b3ec8f05007f6a0c067c5f1174e40e4"
 
 [[files]]
+file = "mods/toucanlib-neoforge-1.21.1-0.5.0.jar"
+hash = "98adfa2a52bbbe9658e07dc8778e4a98fea640fb6482ee30a1251763b1eb2100"
+
+[[files]]
 file = "mods/trimmed-neo-1.21-3.0.0.jar"
 hash = "06ad8575ab8bb3eb367a57bd6c9253eb466ffc7f5f23bd31a2c0312f48ad883f"
 
@@ -687,6 +735,10 @@ hash = "5be5d5b6359dbec76f25a446210aab7bdb31a771e9c4bfb150d2001b3e005620"
 [[files]]
 file = "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar"
 hash = "b722bcf794288f0ed51165cd1f057fc4505e20abbc723b2e17e900426e443603"
+
+[[files]]
+file = "mods/xaeros-drawings-neoforge-0.4.0.jar"
+hash = "9f742fd20112ac0cabdf74b44d5773340996dc12c8fa30ccb3a60bfe24d9930a"
 
 [[files]]
 file = "mods/xaeros-map-server-utils-1.1.0.jar"
