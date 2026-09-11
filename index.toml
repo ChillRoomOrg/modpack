@@ -33,8 +33,8 @@ file = "mods/CameraOverhaul-v2.1.1-neoforge+mc[1.21-1.21.1].jar"
 hash = "9d520fbee153cc2609bff130f952728c8eca11ab2245a036b1104beeb839ebca"
 
 [[files]]
-file = "mods/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar"
-hash = "016eaec4445863874b51130a146346f1d862b92f1c4168333fbc219aa1e5d328"
+file = "mods/CreativeCore_NEOFORGE_v2.13.45_mc1.21.1.jar"
+hash = "10766cd02cdfd32ec8d1ac79ad5767b06cc0a9e31498bdf03c0eabd1603fa122"
 
 [[files]]
 file = "mods/Custom Nether Portals - Neoforge - MC 1.21.1- 2.0.0.jar"
@@ -53,8 +53,8 @@ file = "mods/ExposureDetective-1.21.1-1.0.1.jar"
 hash = "ca6c01f2a3a83ea5d14770f482fa5a5aa70066287781b74dd954865b6a4a099e"
 
 [[files]]
-file = "mods/FarmersDelight-1.21.1-1.3.2.jar"
-hash = "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7"
+file = "mods/FarmersDelight-1.21.1-1.3.4.jar"
+hash = "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c"
 
 [[files]]
 file = "mods/FastItemFrames-v21.1.6-1.21.1-NeoForge.jar"
@@ -65,20 +65,12 @@ file = "mods/GPUBooster-1.3.2-1.21.1-neo.jar"
 hash = "56f5eda7cc8c6121d45616e38454ca7a71faa66c5b28c1cb8e6c211f9cad989d"
 
 [[files]]
-file = "mods/Geophilic v3.6.mod.jar"
-hash = "5df284ed678c8f44d5f9b015736c18858d8b5706128bbe129fc35bc23208bd84"
-
-[[files]]
 file = "mods/GeophilicBackported-v1.3.3 1.21.1.jar"
 hash = "e6869edf6d91660f45d0eceb3db599161a35dcacadbf550b951d2c783f509631"
 
 [[files]]
 file = "mods/GoodEnding-1.21.1-1.1.1-NeoForge.jar"
 hash = "929f1a141ffa4984e5acf04eb7f92e8a6a56160a59c1423acbd1a0e5609cb9e2"
-
-[[files]]
-file = "mods/HellishTrials-neoforge-1.0.5.jar"
-hash = "7f28724652eedd275970455e37629758f7279bd3918a4f1d852676dcf392db63"
 
 [[files]]
 file = "mods/ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar"
@@ -131,10 +123,6 @@ hash = "866ac9a47afcd829bdb03890b5d8f80bb4c6f47332c64717b6e909bee51337b6"
 [[files]]
 file = "mods/OctoLib-NEOFORGE-0.6.2+1.21.jar"
 hash = "92ba07d9d9e55a65421f3c3f203c72fe5149cb024d5277267e81d812e11a7f38"
-
-[[files]]
-file = "mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar"
-hash = "571feb4d223ee2b5661ed3450ea5c68db18627badcef4d59095a329fc03a7685"
 
 [[files]]
 file = "mods/Palladium-1.1.8-1.21-1.21.1.jar"
@@ -261,10 +249,6 @@ file = "mods/bbe-neoforge-1.3.4-beta.3+mc1.21.1.jar"
 hash = "6d9d1ab66abe5454be80a8a6670984335f177c5fa7a5ce18e901d636768cefd9"
 
 [[files]]
-file = "mods/beekeeperhut-neoforge-3.0.3+mc1.21.1.jar"
-hash = "d6cac64175519e23c304918b088a35303105bd3ef334f6da42b2a9f9d145044a"
-
-[[files]]
 file = "mods/better-advanced-tooltips-2101.1.0-build.5.jar"
 hash = "0f76d46f2f18eb67e67c7974170d7b27deb66473396461c8dc50d6949de1449b"
 
@@ -273,16 +257,12 @@ file = "mods/betterbiomeblend-1.5.2.jar"
 hash = "5f632bf837b9b3c28eeaa4182fef6b24634a492e793ca98e7ba1ec0ffbb11083"
 
 [[files]]
-file = "mods/bettersearch-neoforge-1.21.1-1.4.2.jar"
-hash = "812fa7d35e6f39b78fbd0902d7a66a11f7d5043294b5bb577e198a080a82d8de"
-
-[[files]]
 file = "mods/bf_blockpack-neoforge-1.21.1-1.1.2.jar"
 hash = "ea7f3c081141bfbc1353510bc5a2e068b36fa761019cde8948e4c9832b6dc33b"
 
 [[files]]
-file = "mods/blueprint-1.21.1-8.1.0.jar"
-hash = "3d95404e8b91c99f12cc08d14ff435d91a3b0799affa33fc62a0cafa782e3fa7"
+file = "mods/blueprint-1.21.1-8.2.0.jar"
+hash = "698b2e901e371202a583c1057fa50bb7b2415a359263b37dc8e62d3b73ea8a74"
 
 [[files]]
 file = "mods/blurperfected-neoforge-5.3.2-rev.3+1.21.1.jar"
@@ -339,10 +319,6 @@ hash = "83714dc4c09620986f22e4c3ef4696066ed7f6da8d3d0ce50cd34d8f5c144e78"
 [[files]]
 file = "mods/cwb-neoforge-3.0.0+mc1.21.jar"
 hash = "be7144647bc160858e659f6793fcce993914443b9256c2df0369b1c616a2a5d4"
-
-[[files]]
-file = "mods/deathsorter-neoforge-0.0.4_1.21-1.21.4-neoforge.jar"
-hash = "15ca176749ef111095d4ae35b623ea293a8cb25a845c1534075d3c629771abd0"
 
 [[files]]
 file = "mods/distantthunders-mc1.21.1-neoforge-1.1.0.jar"
@@ -437,12 +413,16 @@ file = "mods/figuraextrabone-0.0.3-neoforge-1.21.1.jar"
 hash = "0db02e1390c25c79726bd20c2e15fc4269cea894812413de05df2d5d4cc09a0e"
 
 [[files]]
+file = "mods/figurasvc-2.0.1+1.21.1.jar"
+hash = "2cd5a738e64cfeb5e687848ee0d21abad737f9e58b99e3d09ded64689ae05c4b"
+
+[[files]]
 file = "mods/flowerymooblooms-neoforge-3.0.3+mc1.21.1.jar"
 hash = "b419c757871b09c812ef68fc0b55c0cb949ee302132f9a493e3d8cdaa045f5f4"
 
 [[files]]
-file = "mods/forgified-fabric-api-0.116.14+2.3.0+1.21.1.jar"
-hash = "19b79ea83aa0de8b4b9535ca49e79b10e6ccae34e825a17bc6906e7a98c947e6"
+file = "mods/forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar"
+hash = "96f8b489f401c64e87343daf57a030ccd1b58be40fc0aad701278ba58a0fadaf"
 
 [[files]]
 file = "mods/fragmentum-neoforge-1.21.1-2.4.4.jar"
@@ -497,12 +477,8 @@ file = "mods/krypton_fnp-neoforge-1.21.1-0.2.28.1-1.21.1.jar"
 hash = "05ebe849611daafe533fc57ed9b5156edfa9157ced04d38a7860b1e2075984b9"
 
 [[files]]
-file = "mods/kubejs-neoforge-2101.7.2-build.374.jar"
-hash = "2351c858ccaf4eea1f4125a55cd9583a729dee65cfd04c5fbaa702a2ac2fb084"
-
-[[files]]
-file = "mods/languagereload-neoforge-1.21.1-1.0.2.jar"
-hash = "453df10dca8534ec9bc4d6707a25f21f738720f2360ba4ae3a9c52a570142c9e"
+file = "mods/kubejs-neoforge-2101.7.2-build.377.jar"
+hash = "df9a8458b1f83fed06ba54684977911795a5153a462b81a610895f5b1f2f0cbf"
 
 [[files]]
 file = "mods/libjf-3.17.7+forge.jar"
@@ -541,16 +517,16 @@ file = "mods/modular_backpacks-0.2.12.jar"
 hash = "2282c3e6e389db55006721c1b8d082d8feb31b45cbb48715cd7db9703d2aac10"
 
 [[files]]
-file = "mods/moonlight-1.21.1-3.6.3-neoforge.jar"
-hash = "1b0e1c5ed5774d8e1e80b294e3f63953f962aba74f6df4ea8422d65007c64201"
+file = "mods/moonlight-1.21.1-3.6.4-neoforge.jar"
+hash = "0d14c4a6494875dd99de52ac630bd78cd72a561dfa73ac58456baf3705ce1a56"
 
 [[files]]
 file = "mods/moreculling-neoforge-1.21.1-1.0.10.jar"
 hash = "008068af65deec86382b4fdde61e7f495e54861cc28d5a5b000c32b435213ed3"
 
 [[files]]
-file = "mods/mru-1.0.19+LTS+1.21.1+neoforge.jar"
-hash = "ed025100de31f5635d48a5a0cc4bc9c701d885bf3777e0c2ad8af5f2cad4601a"
+file = "mods/mru-1.0.33+1.21.1-neoforge.jar"
+hash = "07a208f46626ab6db1061c15e549022a87a5c9f4457e355edf09d4538e8e37b0"
 
 [[files]]
 file = "mods/obscure_tooltips-neoforge-1.21.1-4.2.4.jar"
@@ -615,10 +591,6 @@ hash = "36c6ab0fd4b6e684e2d554c67d783067dced9906cfd2b75cae56dd9ede53407a"
 [[files]]
 file = "mods/smart_particles-21.8.10.jar"
 hash = "a19d81c5a06180dd8539260c90bf42a5faa2a867ae215dc79b18c8c0b4833672"
-
-[[files]]
-file = "mods/smarterfarmers-1.21-2.2.4-neoforge.jar"
-hash = "96cd9c5cb6e358798de09c5de13a1201a01da680cad8ec5a0d5a309106293d13"
 
 [[files]]
 file = "mods/smooth_steps-neoforge-1.1.0.jar"
@@ -721,20 +693,16 @@ file = "mods/windy-1.1.1+1.21-neoforge.jar"
 hash = "5be5d5b6359dbec76f25a446210aab7bdb31a771e9c4bfb150d2001b3e005620"
 
 [[files]]
-file = "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar"
-hash = "b722bcf794288f0ed51165cd1f057fc4505e20abbc723b2e17e900426e443603"
+file = "mods/xaerominimap-neoforge-1.21.1-26.5.0.jar"
+hash = "667105d8fdca64b27b29d8e0b88e67e7342038d3fb4edc4129bf452b601c6d20"
 
 [[files]]
 file = "mods/xaeros-drawings-neoforge-0.4.0.jar"
 hash = "9f742fd20112ac0cabdf74b44d5773340996dc12c8fa30ccb3a60bfe24d9930a"
 
 [[files]]
-file = "mods/xaeros-map-server-utils-1.1.0.jar"
-hash = "7a3fa07e1781f94037b0402692bacf83f2506c3ba34faa80f1ef9131d7693d40"
-
-[[files]]
-file = "mods/xaeroworldmap-neoforge-1.21.1-1.45.0.jar"
-hash = "d60899112e84616ba52a993c1722fd891872acc4779bfac34d9b170001451c6f"
+file = "mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar"
+hash = "a7f059e4c48211f6d5c962e7640f5179cc1636bccc907ea77ab9e1865635cb24"
 
 [[files]]
 file = "mods/yagm-1.21.1-0.1.2-NEOFORGE.jar"
