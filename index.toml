@@ -249,6 +249,10 @@ file = "mods/bbe-neoforge-1.3.4-beta.3+mc1.21.1.jar"
 hash = "6d9d1ab66abe5454be80a8a6670984335f177c5fa7a5ce18e901d636768cefd9"
 
 [[files]]
+file = "mods/be_quiet_negotiator-2.0.0-rc1+1.21.1.jar"
+hash = "0d6db835dfe228330f45542f9ca659c9cc996d78a47621150176709768fc8672"
+
+[[files]]
 file = "mods/better-advanced-tooltips-2101.1.0-build.5.jar"
 hash = "0f76d46f2f18eb67e67c7974170d7b27deb66473396461c8dc50d6949de1449b"
 
